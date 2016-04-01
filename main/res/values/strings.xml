@@ -1,0 +1,72 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">PoleDance-Dictionary</string>
+    <string name="versionCode">2</string>
+    <string name="versionName">1.1</string>
+    <!-- App конец-->
+
+    <!-- Activity -->
+    <string name="title_activity_trick">Элемент</string>
+    <string name="title_activity_trick_add">Элемент</string>
+    <!-- Activity конец -->
+
+
+    <!-- Интерфейс -->
+    <!-- menu_main -->
+    <string name="quit">Выйти</string>
+    <string name="action_settings">Настройки</string>
+    <!-- Кнопки -->
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Реактировать</string>
+    <!-- Надписи -->
+    <string name="settings">Настройки</string>
+    <!-- TabHost -->
+    <string name="tabSpec1">Все</string>
+    <string name="tabSpec2">Выполненые</string>
+    <string name="tabSpec3">Избранное</string>
+    <!-- Интерфейс конец -->
+
+    <string name="prompt_tag">Введите тэг для поиска элемента</string>
+    <string name="complete">Освоен</string>
+    <string name="uncomplete">Не освоен</string>
+    <string name="addTrick">Добавить элемент</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_save">Сохранить</string>
+
+
+
+    <string name="find_by_tag">поиск по тегу</string>
+
+    <string name="look_lavel">Отображать по уровню</string>
+    <string name="look_complete">Отображать по завершённости</string>
+    <string name="look_tag">Отображать по тегу</string>
+
+    <string name="tag">Теги:</string>
+    <string name="title">Название элемента:</string>
+    <string name="from">Изображения элементов с ресурса</string>
+    <string name="sinonim_trick">Синонимы трюка</string>
+    <string name="contrnt_trick">Описание трюка</string>
+
+    <string name="sorted">Сортировать по:</string>
+    <string name="sort_by_title">По наименованию</string>
+    <string name="sort_by_sl">По сложности</string>
+    <string name="sort_by_complete">По завершённости</string>
+
+    <!-- Элемент -->
+    <string name="sl_1">Начинающие</string>
+    <string name="sl_2">Продолжающие</string>
+    <string name="sl_3">Профи</string>
+    <string-array name="sl">
+        <item>Уровень: начинающие</item>
+        <item>Уровень: продолжающие</item>
+        <item>Уровень: профи</item>
+    </string-array>
+
+    <!-- Элементы конец -->
+
+    <!-- сообщения об ошибках -->
+    <string name="error_CACH_DIR">Не найден каталог с элементами. Если каталог располагался на SD карте, то установите её, и перезапустите приложение</string>
+
+
+</resources>

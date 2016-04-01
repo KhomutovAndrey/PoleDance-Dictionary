@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hom_ai.poledance_dictionary.TrickAddActivity">
+    <item android:id="@+id/action_edit"
+        android:title="@string/action_edit"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_edit"/>
+    <item android:id="@+id/action_save"
+        android:title="@string/action_save"
+        android:orderInCategory="2"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_save" />
+</menu>
